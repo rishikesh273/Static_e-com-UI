@@ -8,7 +8,7 @@ This project is a starting point for a Flutter application.
 
 ##**screenshot**
 
-home
+## Getting Started
 
 product
 
